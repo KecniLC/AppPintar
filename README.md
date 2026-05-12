@@ -35,6 +35,7 @@ Sigue estos pasos para clonar el proyecto y configurar tu entorno de desarrollo 
 
 ### 1. Crea y activa un entorno virtual (Virtual Environment)
 En Windows: python -m venv venv 
+
 .\venv\Scripts\activate
 
 ### 2.  Instala las dependencias (MediaPipe y OpenCV)
