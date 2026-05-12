@@ -33,7 +33,7 @@ El sistema reconoce la mano y activa diferentes funciones según la combinación
 
 Sigue estos pasos para clonar el proyecto y configurar tu entorno de desarrollo de forma aislada y limpia:
 
-### 1. Crear y activa un entorno virtual (Virtual Environment)
+### 1. Crea y activa un entorno virtual (Virtual Environment)
 En Windows: python -m venv venv 
 .\venv\Scripts\activate
 
