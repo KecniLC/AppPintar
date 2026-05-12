@@ -21,20 +21,6 @@ El sistema reconoce la mano y activa diferentes funciones según la combinación
 
 ---
 
-## 📸 Evidencia Visual
-
-### Aplicación en Ejecución
-Así es como el sistema procesa la cámara web en tiempo real, detectando los nodos de la mano mediante IA mientras se ejecuta la lógica en la terminal:
-
-![App para Pintar Funcionando](screenshot_app.jpeg)
-
-### Mapeo de Puntos (MediaPipe Hand Landmarkers)
-Para lograr la detección de los gestos y contar qué dedos están levantados, el código analiza los **21 puntos de referencia tridimensionales** de la mano siguiendo este modelo oficial:
-
-![MediaPipe Hand Landmarks Diagram](mediapipe_landmarks.jpeg)
-
----
-
 ## 🛠️ Tecnologías Utilizadas
 * **Python 3**
 * **OpenCV** (Procesamiento de video y renderizado de gráficos)
