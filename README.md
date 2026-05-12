@@ -37,7 +37,7 @@ Sigue estos pasos para clonar el proyecto y configurar tu entorno de desarrollo 
 En Windows: python -m venv venv 
 .\venv\Scripts\activate
 
-### 2.  Instalar las dependencias (MediaPipe y OpenCV)
+### 2.  Instala las dependencias (MediaPipe y OpenCV)
 pip install opencv-python mediapipe numpy
 
 ### 3. Ejecuta la app
